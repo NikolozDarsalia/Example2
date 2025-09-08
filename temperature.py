@@ -9,5 +9,5 @@ def c_to_f(celsiuses):
 
     return fahrenheits
 
-print(c_to_f([5]))
+print(c_to_f([10]))
 
